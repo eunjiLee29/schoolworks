@@ -1,0 +1,22 @@
+@font-face {
+    font-family: '';
+    src: url('CWDangamAsac-BoldA1.eot');
+    src: url('CWDangamAsac-BoldA1.eot?#iefix') format('embedded-opentype'),
+        url('CWDangamAsac-BoldA1.woff2') format('woff2'),
+        url('CWDangamAsac-BoldA1.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ChangwonDangamAsac';
+    src: url('CWDangamAsac-Bold.eot');
+    src: url('CWDangamAsac-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CWDangamAsac-Bold.woff2') format('woff2'),
+        url('CWDangamAsac-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
